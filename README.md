@@ -1,0 +1,2 @@
+# Lazyroad-Reborn
+This repository is for the continued Plugin/Mod LazyRoad, the original can be found here: https://dev.bukkit.org/projects/lazyroad/. This reborn version (0.9.0) has two new planned features and they're: abillity to use up the blocks as if you would place them and When laying road also check if the data value is the same. A forge version of this plugin is also available here: (Link coming soon). This plugin supports the new 1.17 copper ore, the new 1.13 water and the new 1.16 nether blocks/ores. Have fun playing with LazyRoad!
